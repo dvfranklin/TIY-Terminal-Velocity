@@ -1,0 +1,2 @@
+/usr/bin/java - Java
+/usr/bin/javac - Javac
