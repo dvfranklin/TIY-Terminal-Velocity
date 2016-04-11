@@ -455,3 +455,18 @@
   455  history
   456  man history
   457  history > terminal-history-for-this-assignment.txt
+  458  cat terminal-history-for-this-assignment.txt 
+  459  git status
+  460  git add terminal-history-for-this-assignment.txt 
+  461  git commit -m "Added terminal history for this assignment (and every command I've ever entered)"
+  462  git status
+  463  git push
+  464  which java
+  465  which javac
+  466  nano where-is-my-java.txt
+  467  nano where-is-my-java.txt
+  468  git add where-is-my-java.txt 
+  469  git commit -m "Add Java locations for step 10"
+  470  ls
+  471  rm terminal-history-for-this-assignment.txt 
+  472  history > terminal-history-for-this-assignment.txt
