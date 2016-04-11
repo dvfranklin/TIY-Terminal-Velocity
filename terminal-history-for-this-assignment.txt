@@ -1,0 +1,457 @@
+    1  xcode -select -p
+    2  gcc
+    3  sudo gcc
+    4  xcode -select -p
+    5  gcc
+    6  xcode-select -p
+    7  ruby -v
+    8  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+    9  brew doctor
+   10  ruby -e $curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install
+   11  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+   12  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+   13  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   14  brew doctor
+   15  brew install ruby
+   16  brew
+   17  brew search ruby
+   18  brew install homebrew/versions/ruby21
+   19  cd
+   20  cat .profile
+   21  echo "PATH=/usr/local/bin:/usr/local/sbin:\$PATH" >> .profile
+   22  source .profile
+   23  ruby -v
+   24  ls
+   25  ls -a
+   26  vim .profile
+   27  homebrew
+   28  brew
+   29  brew uninstall ruby
+   30  ruby -v
+   31  brew list ruby
+   32  brew search ruby
+   33  brew install homebrew/versions/ruby21
+   34  ruby21
+   35  ls
+   36  ruby -v
+   37  cd /usr/local/bin
+   38  ls
+   39  cd brew
+   40  brew uninstall homebrew/versions/ruby21
+   41  brew install homebrew/versions/ruby21
+   42  ruby -v
+   43  cd
+   44  cat .profile
+   45  echo "PATH=/usr/local/bin:/usr/local/sbin:\$PATH" >> .profile
+   46  source .profile
+   47  ruby -v
+   48  cd /usr/local/sbin
+   49  ls
+   50  cd /usr/local/bin
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd
+   55  echo "PATH=/usr/local/bin:/usr/local/opt/ruby21:\$PATH" >> .profile
+   56  ruby -v
+   57  source .profile
+   58  ruby -v
+   59  brew install rbenv ruby-build
+   60  echo 'eval "$(rbenv init -)"' >> ~/.profile
+   61  rbenv install --list
+   62  rbenv install 2.1.2
+   63  ruby -v
+   64  rbenv
+   65  rbenv version
+   66  rbenv versions
+   67  rbenv global 2.1.2
+   68  ruby -v
+   69  (gem list | grep "sqlite3 .1\.3") || gem install sqlite3 -v 1.3.9
+   70  gem install gtk2 -v 2.2.0
+   71  gem install gtk2 -v 2.2.0
+   72  gem install gtk2 -v 2.2.0
+   73  gem
+   74  gem list --local
+   75  gem list
+   76  gem help commands
+   77  gem help install
+   78  cd
+   79  curl -OL https://lichproject.org/download/lich-4.6.22.zip
+   80  unzip lich-4.6.22.zip
+   81  ls
+   82  sudo ruby lich/lich.rbw --gemstone --avalon
+   83  ls
+   84  cd lich
+   85  ls
+   86  cd data
+   87  ls
+   88  cd ..
+   89  ls
+   90  cd ..
+   91  cd lich
+   92  ls -a
+   93  cd ..
+   94  ls
+   95  ls
+   96  cd lich
+   97  ls
+   98  cd ..
+   99  curl -OL https://lichproject.org/download/lich-4.6.22.zip
+  100  unzip lich-4.6.22.zip
+  101  cd lich
+  102  ls
+  103  cd ..
+  104  sudo ruby lich/lich.rbw --gemstone --avalon
+  105  java -version
+  106  java -version
+  107  ls
+  108  cd Downloads
+  109  ls
+  110  mv lein.txt lein
+  111  ls
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd Downloads
+  116  lein
+  117  ./lein
+  118  chmod a+x lein
+  119  ./lein
+  120  lein
+  121  lein help version
+  122  ls
+  123  mv lein ~/bin
+  124  cd ~/bin
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd bin
+  129  ls
+  130  mv bin lein
+  131  mkdir bin
+  132  ls
+  133  mv lein bin
+  134  ls
+  135  cd bin
+  136  ls
+  137  ./lein
+  138  lein
+  139  cd ..
+  140  ls
+  141  cd /bin
+  142  ls
+  143  cd ~
+  144  cd Applications
+  145  ls
+  146  cd /
+  147  ls
+  148  cd usr
+  149  ls
+  150  cd bin
+  151  ls
+  152  cd ~
+  153  ls
+  154  cd bin
+  155  ls
+  156  mv lein /usr/bin
+  157  sudo mkdir /Applications/clojure
+  158  cd /Applications
+  159  ls
+  160  cd clojure
+  161  ls
+  162  sudo curl -O https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
+  163  sudo chmod +x lein
+  164  cd /etc/paths.d/
+  165  ls
+  166  vi 40-XQuartz
+  167  cd /etc/paths.d/
+  168  sudo vi clojure.lein
+  169  cd /etc/paths.d/
+  170  ls
+  171  echo $PATH
+  172  lein
+  173  lein repl
+  174  lein new app clojure-noob
+  175  ls
+  176  cd clojure-noob
+  177  ls
+  178  cd clojure_noob
+  179  ls
+  180  cd clojure_noob
+  181  ls
+  182  cd clojure-noob
+  183  ls
+  184  lein run
+  185  lein uberjar
+  186  ls
+  187  cd target
+  188  ls
+  189  cd uberjar
+  190  ls
+  191  java -jar clojure-noob-0.1.0-SNAPSHOT-standalone.jar
+  192  cd ..
+  193  cd ..
+  194  ls
+  195  lein repl
+  196  ls
+  197  java -verison
+  198  java -version
+  199  git
+  200  git config --global user.name Dan Franklin
+  201  git config --global user.email dvfranklin@gmail.com
+  202  ssh-keygen
+  203  ls
+  204  cd /Users/franks/.ssh
+  205  ls
+  206  cd ~
+  207  cd /Users/franks/.ssh
+  208  ls
+  209  cat id_rsa.pub
+  210  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  211  cd /usr/bin
+  212  ls
+  213  cd /usr/bin
+  214  ls
+  215  cd /bin
+  216  ls
+  217  cd ~
+  218  which brew
+  219  cd ..
+  220  ls
+  221  cd franks
+  222  echo "test test"
+  223  echo test
+  224  echo $path
+  225  echo $PATH
+  226  git
+  227  man echo
+  228  man ls
+  229  top
+  230  ls
+  231  ls -l
+  232  rm lich-4.6.22.zip
+  233  ls
+  234  ls -l
+  235  cd Applications
+  236  ls
+  237  cd ..
+  238  pwd
+  239  cd Applications
+  240  ls
+  241  cd ..
+  242  ls
+  243  cd downloads
+  244  ls
+  245  cd ..
+  246  cd Applications
+  247  ls
+  248  ls -l
+  249  pwd
+  250  cd /Applications
+  251  ls
+  252  cd ~/Applications
+  253  ls
+  254  cd ~
+  255  ls -l
+  256  cd Library
+  257  ls
+  258  cd ..
+  259  cd Desktop
+  260  ls
+  261  cd .
+  262  ls
+  263  cd ..
+  264  ls -l
+  265  cd /usr/bin
+  266  ls
+  267  ls -a
+  268  cd ~
+  269  ls -a
+  270  mkdir TIY
+  271  ls
+  272  cd TIY
+  273  ls
+  274  touch newfile.txt
+  275  ls
+  276  echo "Hello hello hello"
+  277  echo "Hello hello hello" > newfile2.txt
+  278  ls
+  279  ls -al
+  280  open newfile2.txt
+  281  cat newfile2.txt
+  282  man less
+  283  cp newfile2.txt franks.txt
+  284  ls -l
+  285  cat franks.txt
+  286  mv franks.txt ~
+  287  ls
+  288  cd ..
+  289  mv franks.txt TIY
+  290  ls
+  291  cd TIY
+  292  ls
+  293  cd /
+  294  cd /usr/bin
+  295  ls
+  296  cd /
+  297  cd dev
+  298  ls
+  299  cd ./sbin
+  300  cd ../sbin
+  301  ls
+  302  cd /usr/bin
+  303  ls
+  304  cd /var
+  305  ls
+  306  cd ~
+  307  man sudo
+  308  cd /Users
+  309  ls
+  310  touch whatever.txt
+  311  sudo touch whatever.txt
+  312  ls
+  313  cd /usr
+  314  sudo touch whatever.txt
+  315  cd ..
+  316  ls -l
+  317  cd Users
+  318  ls
+  319  rm whatever.txt
+  320  ls
+  321  ls -al
+  322  sudo rm whatever.txt
+  323  ls
+  324  cd ~
+  325  echo $PATH
+  326  cd /bin
+  327  ls
+  328  cd ~
+  329  ls
+  330  ls D*
+  331  brew
+  332  brew search ruby
+  333  which ruby21
+  334  which ruby
+  335  brew
+  336  git
+  337  mkdir Projects/
+  338  ls
+  339  cd Projects
+  340  ls
+  341  mkdir gitTests
+  342  cd gitTests
+  343  ls
+  344  pwd
+  345  git init
+  346  cd .git
+  347  ls
+  348  cd ..
+  349  git status
+  350  date > date.txt
+  351  ls -al
+  352  cat date.txt
+  353  git status
+  354  git add date.txt
+  355  git status
+  356  git commit -m "Add file containing date"
+  357  git status
+  358  echo "Example text" > example.txt
+  359  ls
+  360  cat example.txt
+  361  git log
+  362  git status
+  363  git add example.txt
+  364  git status
+  365  git commit -m "Add example file"
+  366  git status
+  367  git log
+  368  git status
+  369  git log
+  370  nano date.txt
+  371  git status
+  372  git diff date.txt
+  373  ls
+  374  cd ..
+  375  ls
+  376  cd gitTests
+  377  cd .git
+  378  ls
+  379  cd ..
+  380  git help reset
+  381  git log --name-status
+  382  git remote add origin git@github.com:dvfranklin/gitTests.git
+  383  git remote
+  384  git help push
+  385  git push origin master
+  386  git remote
+  387  git status
+  388  cd ..
+  389  ls
+  390  git clone git@github.com:dvfranklin/cloneExample2.git
+  391  ls
+  392  cd cloneExample2
+  393  ls
+  394  ls -al
+  395  cat README.md
+  396  date > date.txt
+  397  git add date.txt
+  398  git commit -m "add date"
+  399  git push remote origin
+  400  git push origin master
+  401  cd ..
+  402  ls
+  403  git clone git@github.com:dvfranklin/TIY-Terminal-Velocity.git
+  404  ls
+  405  cd TIY-Terminal-Velocity
+  406  ls
+  407  cd ..
+  408  ls
+  409  ls -al
+  410  ls -al > TIY-Terminal-Velocity/list-projects-directory.txt
+  411  ls
+  412  cd TIY-Terminal-Velocity
+  413  ls
+  414  cat list-projects-directory.txt 
+  415  which hosts
+  416  nano joke.txt
+  417  ls
+  418  pwd > workingDirectory.txt
+  419  ls
+  420  cat workingDirectory.txt
+  421  cat joke.txt
+  422  cd ~
+  423  ls
+  424  cd /etc
+  425  ls
+  426  cat hosts
+  427  cp hosts ~/Projects/TIY-Terminal-Velocity/
+  428  cd ~/Projects/TIY-Terminal-Velocity/
+  429  ls
+  430  cat hosts
+  431  man date
+  432  date -r seconds
+  433  date -r
+  434  date -r seconds
+  435  man date
+  436  date %s
+  437  date -r %s
+  438  man date
+  439  date -r +%s
+  440  date +%s
+  441  date +seconds
+  442  date +%s > date.txt
+  443  ls
+  444  cat date.txt
+  445  ls *.txt > list\ of\ text\ files.txt
+  446  ls
+  447  cat list of text files.txt
+  448  cat list\ of\ text\ files.txt
+  449  git status
+  450  git help add
+  451  git add *
+  452  git status
+  453  git commmit -m "Add several text files for day 1 assignment"
+  454  git commit -m "Add several text files for day 1 assignment"
+  455  history
+  456  man history
+  457  history > terminal-history-for-this-assignment.txt
