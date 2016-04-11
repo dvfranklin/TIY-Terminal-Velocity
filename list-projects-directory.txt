@@ -1,0 +1,6 @@
+total 0
+drwxr-xr-x   5 franks  staff   170 Apr 11 13:09 .
+drwxr-xr-x+ 35 franks  staff  1190 Apr 11 11:24 ..
+drwxr-xr-x   5 franks  staff   170 Apr 11 13:10 TIY-Terminal-Velocity
+drwxr-xr-x   5 franks  staff   170 Apr 11 12:18 cloneExample2
+drwxr-xr-x   5 franks  staff   170 Apr 11 11:33 gitTests
